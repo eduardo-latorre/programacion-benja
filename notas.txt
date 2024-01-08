@@ -1,0 +1,15 @@
+JVM Java virtual machine
+
+POO Lenguaje orientado a objeto
+
+Programación estructural: Ejecutaban instrucciones
+Objetivo Servise un cereal
+1.- sacar pocillo
+2.- servir leche
+3.- servir cereal
+
+Programación orientada a objeto: -> Clases
+Representación de objetos reales en código
+Pocillo
+Leche
+Cereal
