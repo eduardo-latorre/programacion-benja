@@ -13,3 +13,7 @@ Representación de objetos reales en código
 Pocillo
 Leche
 Cereal
+
+Tarea:
+Crear un programa que pida el nombre, edad, dirección y que entregue la bienvenida
+imprimiendo los valores ingresados por el usuario
