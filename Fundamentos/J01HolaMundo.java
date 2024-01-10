@@ -1,5 +1,5 @@
 package Fundamentos;
-public class HolaMundo{
+public class J01HolaMundo{
 
     // Compilar código -> javac HolaMundo.java
     // Ejecutar programa -> java HolaMundo
